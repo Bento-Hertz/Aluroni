@@ -55,30 +55,12 @@
     font-size: 3rem;
     margin-bottom: 30px;
   }
-}
-
-.filters {
-  display: flex;
-  gap: 24px;
-  flex-wrap: wrap;
-  margin: 20px 0;
-  &_filter {
+  &_filters {
     align-items: center;
-    background-color: $grey;
-    border: none;
-    border-radius: 4px;
     display: flex;
-    font-size: 1.25rem;
-    font-weight: bold;
-    height: 40px;
-    justify-content: center;
-    width: 150px;
-    &--ativo {
-      background-color: $blue;
-      color: white;
-    }
-    &:hover {
-      cursor: pointer;
-    }
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
   }
 }

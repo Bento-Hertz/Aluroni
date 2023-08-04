@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Mediterranean noodle",
+    "description": "Spaghetti noodle with seafood and spice, specialty of the kitchen. Atention: It contains shrimp and others seafoods!",
+    "photo": "/assets/pratos/macarrao_mediterraneo.png",
+    "size": 400,
+    "serving": 2,
+    "price": 73.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Doughs"
+    }
+  },
+  {
+    "title": "House noodle",
+    "description": "Noodle with seafood and spice, specialty of the kitchen. Atention: It contains shrimp and others seafoods!",
+    "photo": "/assets/pratos/macarrao_da_casa.png",
+    "size": 400,
+    "serving": 2,
+    "price": 54.0,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "Doughs"
+    }
+  },
+  {
+    "title": "Noodle with chilli",
+    "description": "Fetuccine noodle with chilli sauce and spices.",
+    "photo": "/assets/pratos/macarrao_com_chilli.png",
+    "size": 350,
+    "serving": 1,
+    "price": 58.0,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Doughs"
+    }
+  },
+  {
+    "title": "House salad with grilled salmon",
+    "description": "House salad (lettuce, arugula, carrot) with salmon.",
+    "photo": "/assets/pratos/salada_da_casa.png",
+    "size": 450,
+    "serving": 1,
+    "price": 42.0,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "Meats"
+    }
+  },
+  {
+    "title": "Beef with potatos",
+    "description": "Ox beef (150g) on the plate, with fried potato. It comes with rice and sauces.",
+    "photo": "/assets/pratos/bife_com_batatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 86.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Meats"
+    }
+  },
+  {
+    "title": "Minced rump steak with vegetables and dough",
+    "description": "400g of minced rump steak, with grilled vegetables and dough chosen by the costumer.",
+    "photo": "/assets/pratos/picanha_picada.png",
+    "size": 850,
+    "serving": 3,
+    "price": 123.0,
+    "id": 6,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  },
+  {
+    "title": "Vegan lasagna (soy meat)",
+    "description": "Lasagna 100% vegan made with soy meat and special dough.",
+    "photo": "/assets/pratos/lasagna_vegana.png",
+    "size": 350,
+    "serving": 1,
+    "price": 45.0,
+    "id": 7,
+    "category": {
+      "id": 4,
+      "label": "Vegans"
+    }
+  },
+  {
+    "title": "Special Salad",
+    "description": "Saladd with avocado, mango, lettuce, chickpea and many more.",
+    "photo": "/assets/pratos/salada_especial.png",
+    "size": 350,
+    "serving": 1,
+    "price": 37.0,
+    "id": 8,
+    "category": {
+      "id": 4,
+      "label": "Vegans"
+    }
+  },
+  {
+    "title": "Meat-ball",
+    "description": "Meat-ball portion with sour cream, onion and spices. Accompanies rice or dough.",
+    "photo": "/assets/pratos/almondegas.png",
+    "size": 740,
+    "serving": 3,
+    "price": 120.0,
+    "id": 9,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  }
+]
