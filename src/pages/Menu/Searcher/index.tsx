@@ -7,17 +7,17 @@ interface Props {
 }
 
 export default function Searcher({search, setSearch}: Props) {
-    return <div className={styles.searcher}>
-        <input 
-            value={search} 
-            onChange={event => setSearch(event.target.value)} 
-            placeholder='Search'
-        />
+	return <div className={styles.searcher}>
+		<input 
+			value={search} 
+			onChange={event => setSearch(event.target.value)} 
+			placeholder='Search'
+		/>
 
-        <CgSearch
-            size={20}
-            color="#4c4d5e"
-        />
+		<CgSearch
+			size={20}
+			color="#4c4d5e"
+		/>
         
-    </div>;
+	</div>;
 }
